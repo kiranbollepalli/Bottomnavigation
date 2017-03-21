@@ -12,4 +12,8 @@ public class NotificationsActivity extends BaseActivity {
     int getNavigationMenuItemId() {
         return R.id.navigation_notifications;
     }
+
+    @Override void initializeUI() {
+
+    }
 }

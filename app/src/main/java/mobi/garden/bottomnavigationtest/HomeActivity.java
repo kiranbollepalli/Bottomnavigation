@@ -13,4 +13,7 @@ public class HomeActivity extends BaseActivity {
         return R.id.navigation_home;
     }
 
+    @Override void initializeUI() {
+
+    }
 }

@@ -13,4 +13,7 @@ public class DashboardActivity extends BaseActivity {
         return R.id.navigation_dashboard;
     }
 
+    @Override void initializeUI() {
+
+    }
 }
