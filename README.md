@@ -4,3 +4,6 @@ The standard use scenario of BottomNavigationView is based on switching between 
 But can BottomNavigationView work with activities rather then fragments? The answer is yes.
 
 This is an example of how to use Android's new Bottom Navigation View component to switch between separate activities.
+
+
+Sample Text
